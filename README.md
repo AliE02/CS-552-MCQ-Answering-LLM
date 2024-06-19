@@ -6,6 +6,6 @@ We also implemented some variants of RAG in order to increase the model's perfor
 You can find in this repo, a paper detailling all of our experiments and results, we wish you a pleasant read.
 
 Credits to:
-- Aymeric de chillaz
+- Aymeric de Chillaz
 - Leila Aissa
 - Ali Essonni
